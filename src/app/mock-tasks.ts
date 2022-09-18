@@ -24,8 +24,6 @@ export const TASKS:Task[]= [
     text:"Comenzar a preparar la cenar",
     day:" octubre 5 a las 20hs",
     reminder: true
-},
-
-
+}
 
 ]
